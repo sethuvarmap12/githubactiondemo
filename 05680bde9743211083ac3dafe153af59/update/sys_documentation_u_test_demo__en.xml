@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Test Demo" language="en" table="u_test_demo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Test Demo</label>
+            <language>en</language>
+            <name>u_test_demo</name>
+            <plural>Test Demos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-29 07:23:42</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test Demo</sys_name>
+            <sys_package display_value="Githubaction " source="05680bde9743211083ac3dafe153af59">05680bde9743211083ac3dafe153af59</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Githubaction ">05680bde9743211083ac3dafe153af59</sys_scope>
+            <sys_update_name>sys_documentation_u_test_demo__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-29 07:23:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
