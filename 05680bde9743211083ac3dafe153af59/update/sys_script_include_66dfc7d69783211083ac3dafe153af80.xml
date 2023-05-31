@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>global.gibhub_cicd_script</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>gibhub_cicd_script</name>
+        <script><![CDATA[var gibhub_cicd_script = Class.create();
+gibhub_cicd_script.prototype = {
+    initialize: function() {
+    },
+	
+	//testing
+
+    type: 'gibhub_cicd_script'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-29 06:08:59</sys_created_on>
+        <sys_id>66dfc7d69783211083ac3dafe153af80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>gibhub_cicd_script</sys_name>
+        <sys_package display_value="Githubaction " source="05680bde9743211083ac3dafe153af59">05680bde9743211083ac3dafe153af59</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Githubaction ">05680bde9743211083ac3dafe153af59</sys_scope>
+        <sys_update_name>sys_script_include_66dfc7d69783211083ac3dafe153af80</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-29 06:08:59</sys_updated_on>
+    </sys_script_include>
+</record_update>
